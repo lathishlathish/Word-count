@@ -8,7 +8,7 @@ Anaconda - Python 3.7
 ### Step 1: Open then required file by using the function"with"
 ### Step 2: Using split function to split the words.
 ### Step 3: Finding the length of the words by using len() function.
-### Step 4: Calling the function and printing the number of words
+### Step 4: Calling the function and printing the number of words.
 ## PROGRAM:
 ```
 #Developed by: Deepika.S
