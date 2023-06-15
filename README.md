@@ -11,8 +11,8 @@ Anaconda - Python 3.7
 ### Step 4: Calling the function and printing the number of words.
 ## PROGRAM:
 ```
-#Developed by: Deepika.S
-#Register No: 212222230028
+#Developed by: LATHISH KANNA .M
+#Register No: 212222230073
 n=input('Enter File name: ')
 wordslen=0
 with open(n,'r') as f:
